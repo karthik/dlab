@@ -1,6 +1,6 @@
 Package: dlab
-Title: 
-Description: 
+Title: The dlab test package
+Description: This package gets fisheries landings data
 Version: 0.1
 Authors@R: 'Karthik Ram <karthik.ram@gmail.com> [aut, cre]'
 Depends:
